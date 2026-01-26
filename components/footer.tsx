@@ -22,7 +22,7 @@ export function Footer() {
           </p>
           <div className="flex gap-4">
             <Link
-              href="https://github.com"
+              href="https://github.com/M-Chandana"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground transition-colors hover:text-primary"
@@ -31,7 +31,7 @@ export function Footer() {
               <Github className="h-5 w-5" />
             </Link>
             <Link
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/chandana-muppidi-b9aab5290/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground transition-colors hover:text-primary"
