@@ -89,7 +89,7 @@ export default function ContactPage() {
               </p>
               <div className="space-y-3">
                 <Link
-                  href="https://github.com"
+                  href="https://github.com/M-Chandana"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex w-full items-center justify-start gap-2 rounded-md border border-input bg-transparent px-4 py-2 text-sm font-medium hover:bg-accent hover:text-accent-foreground"
@@ -98,7 +98,7 @@ export default function ContactPage() {
                   GitHub
                 </Link>
                 <Link
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/chandana-muppidi-b9aab5290/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex w-full items-center justify-start gap-2 rounded-md border border-input bg-transparent px-4 py-2 text-sm font-medium hover:bg-accent hover:text-accent-foreground"
