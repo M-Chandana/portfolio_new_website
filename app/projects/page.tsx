@@ -10,7 +10,7 @@ export default function ProjectsPage() {
     title: "Food Redistribution & Waste Management System",
     description:
       "Developed a scalable platform to redistribute surplus food from donors to underserved communities, reducing food wastage and improving resource utilization. Built using the MERN stack (MongoDB, Express.js, React, Node.js) with real-time request matching and logistics coordination.",
-    duration: "Nov 2026 - Mar 2026",
+    duration: "Nov 2025 - Mar 2026",
     tags: ["MERN", "Full Stack", "MongoDB", "Node.js"],
   },
   {
@@ -31,7 +31,7 @@ export default function ProjectsPage() {
     title: "GenAI Medical Pre-Screening for Psychiatric Patients",
     description:
       "Built an AI-driven system to assist psychiatrists in early-stage patient screening and assessment. Leveraged NLP and generative AI to analyze patient responses and identify potential mental health indicators through an adaptive questionnaire system.",
-    duration: "Nov 2026 - Mar 2026",
+    duration: "Nov 2025 - Mar 2026",
     tags: ["GenAI", "NLP", "AI/ML", "Healthcare"],
   },
 ]
