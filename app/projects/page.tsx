@@ -6,36 +6,35 @@ import { Calendar, Trophy } from "lucide-react"
 
 export default function ProjectsPage() {
   const projects = [
-    {
-      title: "Real-Time Sign Language Translator",
-      description:
-        "Built a web app to translate ASL hand gestures into text in real time using MediaPipe for hand tracking and Random Forest Classifier for recognition. Deployed Flask REST API with dynamic HTML5 Canvas frontend.",
-      duration: "April 2025 - July 2025",
-      tags: ["AI/ML", "Flask", "MediaPipe", "Web App"],
-    },
-    {
-      title: "TPA Token-Based Health Insurance Claim System",
-      description:
-        "Designed a secure, multi-role distributed system for real-time claim approvals. Implemented JWT-based role dashboards, token tracking, and secure workflows with MongoDB-backed data transactions.",
-      duration: "May 2025 - July 2025",
-      tags: ["Distributed Systems", "JWT", "MongoDB", "Security"],
-    },
-    {
-      title: "E-Commerce Site with Secure Checkout",
-      description:
-        "Built a full-stack e-commerce web app with authentication, cart, and secure Stripe payments. Enabled persistent purchase history tracking and live cart updates with integrated review system.",
-      duration: "April 2025 - June 2025",
-      tags: ["Full Stack", "Stripe", "React", "Node.js"],
-    },
-    {
-      title: "Hotel Booking & Billing Desktop App",
-      description:
-        "Developed a desktop-based hotel reservation system with live slot booking, menu categorization, and automatic billing. Ported web app to cross-platform desktop using Electron with scalable, responsive UI.",
-      duration: "May 2023 - June 2024",
-      tags: ["Electron", "Desktop App", "JavaScript"],
-    },
-  ]
-
+  {
+    title: "Food Redistribution & Waste Management System",
+    description:
+      "Developed a scalable platform to redistribute surplus food from donors to underserved communities, reducing food wastage and improving resource utilization. Built using the MERN stack (MongoDB, Express.js, React, Node.js) with real-time request matching and logistics coordination.",
+    duration: "Nov 2026 - Mar 2026",
+    tags: ["MERN", "Full Stack", "MongoDB", "Node.js"],
+  },
+  {
+    title: "TPA Token-Based Health Insurance Claim System",
+    description:
+      "Designed a secure, multi-role distributed system for real-time claim approvals. Implemented JWT-based role dashboards, token tracking, and secure workflows with MongoDB-backed data transactions.",
+    duration: "May 2025 - July 2025",
+    tags: ["Distributed Systems", "JWT", "MongoDB", "Security"],
+  },
+  {
+    title: "E-Commerce Site with Secure Checkout",
+    description:
+      "Built a full-stack e-commerce web app with authentication, cart, and secure Stripe payments. Enabled persistent purchase history tracking and live cart updates with integrated review system.",
+    duration: "April 2025 - June 2025",
+    tags: ["Full Stack", "Stripe", "React", "Node.js"],
+  },
+  {
+    title: "GenAI Medical Pre-Screening for Psychiatric Patients",
+    description:
+      "Built an AI-driven system to assist psychiatrists in early-stage patient screening and assessment. Leveraged NLP and generative AI to analyze patient responses and identify potential mental health indicators through an adaptive questionnaire system.",
+    duration: "Nov 2026 - Mar 2026",
+    tags: ["GenAI", "NLP", "AI/ML", "Healthcare"],
+  },
+]
   const hackathons = [
     {
       title: "ICSRF 2025 Hackathon",
