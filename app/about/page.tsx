@@ -41,7 +41,7 @@ export default function AboutPage() {
                   <div className="flex-1">
                     <h3 className="mb-1 text-lg font-semibold">B.Tech – Computer Science & Engineering</h3>
                     <p className="mb-2 text-sm text-muted-foreground">Amrita Vishwa Vidyapeetham</p>
-                    <p className="text-sm font-medium text-primary">GPA: 8.35</p>
+                    <p className="text-sm font-medium text-primary">GPA: 8.23</p>
                   </div>
                 </div>
               </Card>

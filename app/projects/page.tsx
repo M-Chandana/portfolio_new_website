@@ -21,11 +21,11 @@ export default function ProjectsPage() {
     tags: ["Distributed Systems", "JWT", "MongoDB", "Security"],
   },
   {
-    title: "E-Commerce Site with Secure Checkout",
+    title: "Enterprise Goal Management & Performance Tracking System",
     description:
-      "Built a full-stack e-commerce web app with authentication, cart, and secure Stripe payments. Enabled persistent purchase history tracking and live cart updates with integrated review system.",
-    duration: "April 2025 - June 2025",
-    tags: ["Full Stack", "Stripe", "React", "Node.js"],
+      "Built a full-stack performance management platform (React.js, Vite, Node.js, Express.js, SQLite3) with role-based workflows for Employee, Manager, and Admin. Implemented goal creation with weightage validation, manager approval flows, and shared KPI deployment. Added automated performance scoring, quarterly check-ins, an escalation engine for pending approvals, Recharts analytics dashboards, and CSV export for reporting.",
+    duration: "April 2026 - June 2026",
+    tags: ["SQLite3","React.js", "Node.js"],
   },
   {
     title: "GenAI Medical Pre-Screening for Psychiatric Patients",
