@@ -44,18 +44,10 @@ export default function ProjectsPage() {
       tags: ["AI", "Education", "TinkerFlow"],
     },
     {
-      title: "SIH 2024",
-      project: "Secure Geo-Attendance Tracker",
-      achievement: "Selected Project",
-      description: "GPS-based check-in/out with Firestore & role-based access using Flutter and Firebase.",
-      tags: ["Flutter", "Firebase", "GPS"],
-    },
-    {
-      title: "Cosmocloud Low Code Hackathon 2024",
-      project: "Distributed Hospital Management",
-      achievement: "Completed Project",
-      description: "JWT-based refugee healthcare management system built with MERN stack.",
-      tags: ["MERN", "Healthcare", "JWT"],
+      title: "NitroStack Agentic AI Hackathon",
+      project: "Multi-Source Candidate Data Transformer",
+      achievement: "3rd Place",
+      description: "Developed a multi-source candidate data transformation system that unified applicant data from JSON, CSV, resumes, LinkedIn exports and recruiter notes into standardized JSON outputs with automated validation and HTML reporting.",
     },
   ]
 
