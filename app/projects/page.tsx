@@ -46,7 +46,7 @@ export default function ProjectsPage() {
     {
       title: "NitroStack Agentic AI Hackathon",
       project: "Multi-Source Candidate Data Transformer",
-      achievement: "3rd Place",
+      achievement: "Secured 3rd Place",
       description: "Developed a multi-source candidate data transformation system that unified applicant data from JSON, CSV, resumes, LinkedIn exports and recruiter notes into standardized JSON outputs with automated validation and HTML reporting.",
     },
   ]
